@@ -142,3 +142,17 @@
     -webkit-animation-play-state: running;
     animation-play-state: running;
 }
+
+.dont-know {
+    margin: 20px;
+    padding: 60px 30px;
+    background-color: #ff7f50;
+    border: 10px outset #ff5f23;
+    color: #8b0000;
+    font-family: "Lato Black", sans-serif;
+    font-size: 18px;
+}
+.dont-know:hover {
+    background-color: #48c62b;
+    border: 10px outset #01bd21;
+}
